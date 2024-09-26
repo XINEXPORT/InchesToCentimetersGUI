@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToCentimetersGUI", "InchesToCentimetersGUI\InchesToCentimetersGUI.csproj", "{8F155AED-5564-4CAD-B655-B91AC6E6CDFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F155AED-5564-4CAD-B655-B91AC6E6CDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F155AED-5564-4CAD-B655-B91AC6E6CDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F155AED-5564-4CAD-B655-B91AC6E6CDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F155AED-5564-4CAD-B655-B91AC6E6CDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C5EC8C-92AF-44B3-A8BE-674CABC71F58}
+	EndGlobalSection
+EndGlobal
