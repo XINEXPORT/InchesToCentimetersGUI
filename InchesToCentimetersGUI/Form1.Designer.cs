@@ -58,6 +58,7 @@
             ConvertButton.TabIndex = 2;
             ConvertButton.Text = "Convert to Centimeters";
             ConvertButton.UseVisualStyleBackColor = true;
+            ConvertButton.Click += ConvertButton_Click;
             // 
             // Result
             // 

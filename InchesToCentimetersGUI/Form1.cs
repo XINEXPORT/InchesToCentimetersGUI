@@ -14,14 +14,9 @@ namespace InchesToCentimetersGUI
                 int inches;
                 double centimeters;
 
-                
                 inches = Convert.ToInt32(Inches.Text); 
-
-             
                 centimeters = inches * 2.54;
-
-              
-                Result.Text = $"{inches} inches is {centimeters} cm.";
+                Result.Text = inches + " inches is " + centimeters + " cm";
             }
         }
 
